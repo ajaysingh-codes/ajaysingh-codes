@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi, I'm Ajay 👋
+
+AI Engineer building with AI agents, automation and full-stack technologies.
 
 <!--
 **ajaysingh-codes/ajaysingh-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
