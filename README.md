@@ -13,16 +13,11 @@ Currently working through the **University of Helsinki Full Stack Open** → [Vi
 
 ## ⚡ AI Coding
 
-**Codex:** 620.8M tokens · 72 chats · 284 skill uses  
-**Claude Code:** daily build, debug, refactor, and architecture workflow
+**Codex:** 620.8M tokens · 72 chats · 284 skill uses
 
 > I measure AI by what it helps me ship.
 
 <!--
-**ajaysingh-codes/ajaysingh-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
