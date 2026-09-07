@@ -11,10 +11,6 @@ Currently working through the **University of Helsinki Full Stack Open** → [Vi
 - **Hackathon Project 2** — short one-line description · [Repo](LINK)
 - **Kaggle Writeups** — experiments, notebooks, and lessons from ML projects · [View](LINK)-->
 
-## ⚡ AI Coding
-
-**Codex:** 620.8M tokens · 72 chats · 284 skill uses
-
 > I measure AI by what it helps me ship.
 
 <!--
