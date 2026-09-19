@@ -2,7 +2,8 @@
 
 **AI Engineer building agentic systems, automations, and AI-powered products.**
 
-Currently working through the **University of Helsinki Full Stack Open** → [View my progress](https://github.com/ajaysingh-codes/fso)
+Currently working through the **University of Helsinki Full Stack Open** → [View my progress](https://github.com/ajaysingh-codes/fso) and **CodePath AI110** → [View my progress](https://github.com/ajaysingh-codes/codepath-ai110)
+
 
 <!--
 ## 🚀 Featured Work
